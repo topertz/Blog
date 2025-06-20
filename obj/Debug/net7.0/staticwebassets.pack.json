@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Mark\\Documents\\adatbazis_alkalmazasok_keszitese\\Blog\\BlogEntries\\wwwroot\\homepage.css",
+      "PackagePath": "staticwebassets\\homepage.css"
+    },
+    {
+      "Id": "C:\\Users\\Mark\\Documents\\adatbazis_alkalmazasok_keszitese\\Blog\\BlogEntries\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\Mark\\Documents\\adatbazis_alkalmazasok_keszitese\\Blog\\BlogEntries\\wwwroot\\register.css",
+      "PackagePath": "staticwebassets\\register.css"
+    },
+    {
+      "Id": "C:\\Users\\Mark\\Documents\\adatbazis_alkalmazasok_keszitese\\Blog\\BlogEntries\\wwwroot\\register.html",
+      "PackagePath": "staticwebassets\\register.html"
+    },
+    {
+      "Id": "C:\\Users\\Mark\\Documents\\adatbazis_alkalmazasok_keszitese\\Blog\\BlogEntries\\wwwroot\\schema.sql",
+      "PackagePath": "staticwebassets\\schema.sql"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.BlogEntries.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.BlogEntries.props",
+      "PackagePath": "build\\BlogEntries.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.BlogEntries.props",
+      "PackagePath": "buildMultiTargeting\\BlogEntries.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.BlogEntries.props",
+      "PackagePath": "buildTransitive\\BlogEntries.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

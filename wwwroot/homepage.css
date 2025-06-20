@@ -1,0 +1,150 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f8f9fa;
+    color: #343a40;
+}
+
+.container {
+    max-width: 1100px;
+    margin: 0 auto;
+}
+
+.mt-5 {
+    margin-top: 5rem;
+}
+
+.card {
+    margin-bottom: 20px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+.card-body {
+    padding: 20px;
+}
+
+.card-title {
+    font-size: 1.5rem;
+    color: #007bff;
+}
+
+.card-text {
+    font-size: 1rem;
+    color: #495057;
+}
+
+#blogEntriesContainer {
+    margin-top: 20px;
+}
+
+#createPostBtn,
+#deletePostBtn,
+#editPostBtn,
+#loginLink,
+#registerLink,
+#viewPostsLink,
+#viewBlockPostsLink,
+#viewUserPostsLink {
+    margin-right: 10px;
+}
+
+#createPostBtn,
+#deletePostBtn,
+#editPostBtn {
+    border-radius: 5px;
+}
+
+#createPostBtn {
+    background-color: #28a745;
+    border: none;
+    color: white;
+}
+
+#createPostBtn:hover {
+    background-color: #218838;
+}
+
+#deletePostBtn {
+    background-color: #dc3545;
+    border: none;
+    color: white;
+}
+
+#deletePostBtn:hover {
+    background-color: #c82333;
+}
+
+#editPostBtn {
+    background-color: #ffc107;
+    border: none;
+    color: black;
+}
+
+#editPostBtn:hover {
+    background-color: #e0a800;
+}
+
+#loginLink,
+#logOutLink,
+#registerLink,
+#viewPostsLink,
+#viewBlockPostsLink,
+#viewUserPostsLink {
+    color: #007bff;
+    font-weight: 500;
+    transition: color 0.3s, text-shadow 0.3s;
+}
+
+#loginLink:hover,
+#logOutLink:hover,
+#registerLink:hover,
+#viewPostsLink:hover,
+#viewBlockPostsLink:hover,
+#viewUserPostsLink:hover {
+    color: #0056b3;
+    text-shadow: 0 1px 3px rgba(0,0,0,0.2);
+}
+
+#userPostsContainer {
+    margin-top: 20px;
+}
+
+.modal-dialog {
+    max-width: 600px;
+    margin: 1.75rem auto;
+}
+
+.modal-content {
+    border-radius: 8px;
+    border: 1px solid #ddd;
+}
+
+.modal-header {
+    border-bottom: 1px solid #ddd;
+}
+
+.modal-title {
+    font-size: 1.25rem;
+}
+
+.modal-body {
+    padding: 20px;
+}
+
+.modal-footer {
+    border-top: 1px solid #ddd;
+}
+
+#userPostsModal h4 {
+    margin-bottom: 20px;
+    font-size: 1.5rem;
+    color: #007bff;
+}
+
+#userPostsModal .card {
+    margin-bottom: 15px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
